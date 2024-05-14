@@ -26,11 +26,6 @@ git clone https://github.com/Hassan23121999/Benchmarking-Tool.git
 cd Benchmarking-Tool
 ```
 
-Install the required packages:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 ### Launching the Application
 To start the application, run the following command:
